@@ -5,8 +5,8 @@
         <img src="../assets/logo.png" width="30" height="30" />
         Dyma
       </a>
-      <button class="navbar-toggler">
-        <span class="navbar-toggler-icon" v-trigger-collapse="'collapse'"></span>
+      <button class="navbar-toggler" v-trigger-collapse="'collapse'">
+        <span class="navbar-toggler-icon"></span>
       </button>
       <div id="collapse" class="collapse navbar-collapse">
         <ul class="navbar-nav">
